@@ -4,10 +4,10 @@ import Header from "../components/Header";
 
 const AboutScreen = () => {
   const developer = {
-    name: "Zahirsyah Chronic",
-    nim: "lupa nim nya brp",
+    name: "Muhammad Zahirsyah Ibrahim",
+    nim: "21120121140152",
     description:
-      "Tugas Akhir Praktikum PPB 2023, Aplikasi berbasis API Dazel Mobile Legends menggunakan React Native",
+      "Tugas Akhir Praktikum PPB 2023, Aplikasi List Hero & Map berbasis API Dazel Mobile Legends menggunakan React Native",
     imageUrl:
       "https://shopee.co.id/inspirasi-shopee/wp-content/uploads/2023/10/urutan-rank-ml-1.jpg",
   };
